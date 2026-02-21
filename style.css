@@ -9,9 +9,20 @@
     text-align: center;
 
 }
+.logo img{
+    width: 150px;
+    height: auto;
+}
 
-
-
+.nav-links button{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
 
 .hero-bg{
     position: absolute;
@@ -19,5 +30,4 @@
     left: 0;
     width: 100%;
     height: 100%;
-   
 }
